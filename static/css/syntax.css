@@ -1,3 +1,11 @@
+.has-jax {
+  font: inherit;
+  font-size: 100%;
+  background: inherit;
+  border: inherit;
+  color: inherit;
+}
+
 .highlight .hll { background-color: #ffffcc }
  /*{ background: #f0f3f3; }*/
 .highlight .c { color: #999; } /* Comment */
